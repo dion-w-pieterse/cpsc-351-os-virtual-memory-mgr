@@ -17,4 +17,4 @@ g++ -Wall -std=c++11 main.cpp -o Exec
 #### Run Application
 ./Exec&nbsp;&nbsp;\<backing-store\-filename\>\.bin&nbsp;&nbsp;address-bank\.txt
 
-**Note:** The address-bank.txt and <backing-store-filename.bin file have not been provided. You must use your own files.
+**Note:** The address-bank.txt and \<backing-store-filename\>.bin file have not been provided. You must use your own files.
